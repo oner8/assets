@@ -7,13 +7,13 @@
 也可以直接拼接路径：
 
 ```
-https://assets.jsdelivr.net/gh/oner8/assets/图片
+https://cdn.jsdelivr.net/gh/oner8/assets/图片
 ```
 
 例如：
 
 ```
-https://assets.jsdelivr.net/gh/oner8/assets/img/bg.png
-https://assets.jsdelivr.net/gh/oner8/assets@latest/img/bg.png
-https://assets.jsdelivr.net/gh/oner8/assets@master/img/bg.png
+https://cdn.jsdelivr.net/gh/oner8/assets/img/bg.png
+https://cdn.jsdelivr.net/gh/oner8/assets@latest/img/bg.png
+https://cdn.jsdelivr.net/gh/oner8/assets@master/img/bg.png
 ```
